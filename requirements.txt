@@ -1,5 +1,5 @@
 tensorflow
-load_menu
+load_model
 gradio
 joblib
 keras
